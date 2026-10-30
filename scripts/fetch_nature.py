@@ -40,8 +40,8 @@ def main():
             continue
         categories=[(e.text or "").strip().lower() for e in item.findall("category")]
         categories += [(e.text or "").strip().lower() for e in item.findall(f"{DC}type")]
-        # Reject unknown article types rather than accidentally send research papers.
-        if not any(c in REPORTING for c in categories):
+        # Nature RSS may omit types; d41586 URLs identify Nature editorial content.
+        if not (any(c in REPORTING for c in categories) or re.search(r'/articles/d41586-', link)):
             continue
         node=ET.SubElement(channel,"item")
         for key,val in [("title",title),("link",link),("guid",link),("description",description),("pubDate",get(item,"pubDate") or item.findtext(f"{DC}date",""))]:
