@@ -1,0 +1,30 @@
+name: Mirror Nature AI reporting
+
+on:
+  schedule:
+    - cron: '27 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  nature:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Fetch and filter Nature feed
+        run: python scripts/fetch_nature.py
+      - name: Commit filtered feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add nature-feed.xml
+          if ! git diff --cached --quiet; then
+            git commit -m "Update Nature AI reporting feed"
+            git push
+          fi
