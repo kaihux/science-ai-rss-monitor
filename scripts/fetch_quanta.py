@@ -5,7 +5,7 @@ from urllib.request import Request, urlopen
 import re
 import xml.etree.ElementTree as ET
 
-SOURCE = "https://api.quantamagazine.org/feed/"
+SOURCE = "https://www.quantamagazine.org/tag/artificial-intelligence/feed/"
 DEST = Path("quanta-feed.xml")
 AI = re.compile(r"\b(?:AI|artificial intelligence|machine learning|deep learning|large language models?|LLMs?|ChatGPT|OpenAI|Anthropic|DeepMind|AlphaFold|neural networks?|AI[- ](?:assisted|generated|powered)|generative AI)\b", re.I)
 
@@ -29,7 +29,7 @@ def main():
         link = item.findtext("link", "")
         desc = item.findtext("description", "")
         categories = " ".join(e.text or "" for e in item.findall("category"))
-        if not title or not link or not AI.search(" ".join((title, desc, categories))):
+        if not title or not link:
             continue
         copied = ET.SubElement(channel, "item")
         for tag in ("title", "link", "guid", "pubDate", "description"):
