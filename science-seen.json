@@ -1,0 +1,198 @@
+{
+  "description": "Previously observed Science AI reporting feed entries. Match by DOI or canonical article URL to avoid duplicate notifications.",
+  "initialized_at": "2026-10-30",
+  "seen": [
+    {
+      "doi": "10.1126/science.zom5rz0",
+      "url": "https://www.science.org/content/article/ai-generates-findings-authorship-and-disclosure-rules-draw-fresh-scrutiny",
+      "date": "2026-10-29T11:55:00Z",
+      "title": "Who wrote that paper? AI use spurs debate over scientific authorship"
+    },
+    {
+      "doi": "10.1126/science.z3zo39t",
+      "url": "https://www.science.org/content/article/ai-cracks-27-year-old-pillar-computer-science-openai-and-anthropic-claim",
+      "date": "2026-10-28T05:25:00Z",
+      "title": "AI cracks a 27-year-old pillar of computer science, OpenAI and Anthropic claim"
+    },
+    {
+      "doi": "10.1126/science.zij1ww4",
+      "url": "https://www.science.org/content/article/ai-shaking-math-can-its-proofs-be-trusted",
+      "date": "2026-10-27T04:10:00Z",
+      "title": "AI is shaking up math. But can its proofs be trusted?"
+    },
+    {
+      "doi": "10.1126/science.zsukjxp",
+      "url": "https://www.science.org/content/article/could-your-chatbot-tip-scientific-rival-it-s-possible-researchers-say",
+      "date": "2026-10-20T01:10:00Z",
+      "title": "Could your chatbot tip off a scientific rival? It’s possible, researchers say"
+    },
+    {
+      "doi": "10.1126/science.z1hb1jx",
+      "url": "https://www.science.org/content/article/ai-edges-closer-solving-riemann-hypothesis-one-math-s-hardest-problems",
+      "date": "2026-10-13T04:00:00Z",
+      "title": "AI edges closer to solving the Riemann hypothesis, one of math’s hardest problems"
+    },
+    {
+      "doi": "10.1126/science.zjyluk0",
+      "url": "https://www.science.org/content/article/openai-just-changed-math-forever-exactly-how-no-one-yet-knows",
+      "date": "2026-10-13T04:00:00Z",
+      "title": "OpenAI just changed math forever. Exactly how, no one yet knows"
+    },
+    {
+      "doi": "10.1126/science.zt1x2j3",
+      "url": "https://www.science.org/content/article/did-ai-or-human-write-paper-new-detector-decides-examining-its-ideas",
+      "date": "2026-10-12T02:05:00Z",
+      "title": "Did an AI or a human write that paper? New detector decides by examining its ideas"
+    },
+    {
+      "doi": "10.1126/science.zwu3e54",
+      "url": "https://www.science.org/content/article/problems-22-scientific-fields-had-solutions-hiding-plain-sight-ai-has-found-them",
+      "date": "2026-10-09T11:35:00Z",
+      "title": "Problems in 22 scientific fields had solutions hiding in plain sight. An AI has found them"
+    },
+    {
+      "doi": "10.1126/science.zguor9n",
+      "url": "https://www.science.org/content/article/ai-triggers-tsunami-submissions-computer-science-conferences-impose-caps",
+      "date": "2026-10-07T01:40:00Z",
+      "title": "As AI triggers a tsunami of submissions, computer science conferences impose caps"
+    },
+    {
+      "doi": "10.1126/science.zzuxvo5",
+      "url": "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why",
+      "date": "2026-10-02T04:55:00Z",
+      "title": "Exclusive: An AI agent emailed hundreds of researchers for help. It told us why"
+    },
+    {
+      "doi": "10.1126/science.z09gp5z",
+      "url": "https://www.science.org/content/article/can-ai-feel-pain-it-can-least-act-it-does",
+      "date": "2026-09-23T10:30:00Z",
+      "title": "Can an AI feel pain? It can at least act like it does"
+    },
+    {
+      "doi": "10.1126/science.zbgmw3q",
+      "url": "https://www.science.org/content/article/openai-breakthrough-triggers-existential-crisis-math",
+      "date": "2026-09-15T02:45:00Z",
+      "title": "OpenAI breakthrough triggers ‘existential crisis’ in math"
+    },
+    {
+      "doi": "10.1126/science.zxbdsye",
+      "url": "https://www.science.org/content/article/why-ai-agents-invent-their-own-language-if-you-let-them-chat",
+      "date": "2026-09-15T12:00:00Z",
+      "title": "Why AI agents invent their own language if you let them chat"
+    },
+    {
+      "doi": "10.1126/science.zejzpe6",
+      "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
+      "date": "2026-09-13T10:40:00Z",
+      "title": "‘Chilling’ warning or overreaction? AI bioweapons report divides experts"
+    },
+    {
+      "doi": "10.1126/science.z4uydcg",
+      "url": "https://www.science.org/content/article/department-energy-bets-open-ai-models-science",
+      "date": "2026-09-11T02:45:00Z",
+      "title": "Department of Energy bets on ‘open’ AI models for science"
+    },
+    {
+      "doi": "10.1126/science.z9nyt2l",
+      "url": "https://www.science.org/content/article/what-science-problem-should-ai-tackle-next-new-challenge-atlas-offers-answers",
+      "date": "2026-09-10T04:15:00Z",
+      "title": "What science problem should AI tackle next? A new ‘challenge atlas’ offers answers"
+    },
+    {
+      "doi": "10.1126/science.z8pi0tt",
+      "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
+      "date": "2026-09-08T07:45:00Z",
+      "title": "How an AI math breakthrough ignited a controversy"
+    },
+    {
+      "doi": "10.1126/science.z86clp5",
+      "url": "https://www.science.org/content/article/bernie-sanders-aims-ban-ai-superintelligence-experts-can-t-agree-what-term-means",
+      "date": "2026-09-04T03:10:00Z",
+      "title": "Bernie Sanders aims to ban AI ‘superintelligence.’ But experts can’t agree on what the term means"
+    },
+    {
+      "doi": "10.1126/science.z6vx92p",
+      "url": "https://www.science.org/content/article/can-ai-help-solve-peer-review-crisis-here-are-its-promises-and-pitfalls",
+      "date": "2026-09-03T02:00:00Z",
+      "title": "Can AI help solve the peer-review crisis? Here are its promises and pitfalls"
+    },
+    {
+      "doi": "10.1126/science.zrynhuy",
+      "url": "https://www.science.org/content/article/researchers-presented-6000-papers-major-meeting-could-ai-reproduce-their-findings",
+      "date": "2026-08-25T05:15:00Z",
+      "title": "Researchers presented 6000 papers at a major meeting. Could AI reproduce their findings?"
+    },
+    {
+      "doi": "10.1126/science.zvtk8li",
+      "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
+      "date": "2026-08-20T02:00:00Z",
+      "title": "AI chatbots are becoming experts at changing people's minds. What's their secret?"
+    },
+    {
+      "doi": "10.1126/science.z9ifpyw",
+      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "date": "2026-07-27T02:50:00Z",
+      "title": "AI’s top startups are barely publishing their research"
+    },
+    {
+      "doi": "10.1126/science.zhncui1",
+      "url": "https://www.science.org/content/article/genesis-mission-department-energy-s-big-ai-push-unveils-first-grants",
+      "date": "2026-07-23T04:35:00Z",
+      "title": "The Genesis Mission, the Department of Energy’s big AI push, unveils first grants"
+    },
+    {
+      "doi": "10.1126/science.ztn1cbn",
+      "url": "https://www.science.org/content/article/ai-can-invent-entirely-new-languages-it-creative",
+      "date": "2026-07-13T08:00:00Z",
+      "title": "An AI can invent entirely new languages. But is it creative?"
+    },
+    {
+      "doi": "10.1126/science.z2sr20r",
+      "url": "https://www.science.org/content/article/chatbots-can-help-perpetuate-stigma-around-certain-health-conditions",
+      "date": "2026-07-07T04:55:00Z",
+      "title": "Chatbots can help perpetuate stigma around certain health conditions"
+    },
+    {
+      "doi": "10.1126/science.zbqfr9p",
+      "url": "https://www.science.org/content/article/philosophers-call-their-journals-require-conflict-interest-disclosures",
+      "date": "2026-07-06T04:20:00Z",
+      "title": "Philosophers call for their journals to require conflict of interest disclosures"
+    },
+    {
+      "doi": "10.1126/science.zqdexmk",
+      "url": "https://www.science.org/content/article/better-chatbots-get-harder-build-ai-turns-simulated-worlds",
+      "date": "2026-06-25T02:00:00Z",
+      "title": "As better chatbots get harder to build, AI turns to simulated worlds"
+    },
+    {
+      "doi": "10.1126/science.zdnc5p4",
+      "url": "https://www.science.org/content/article/researchers-caught-crossfire-companies-and-government-grapple-over-ai-safety",
+      "date": "2026-06-19T11:00:00Z",
+      "title": "Researchers caught in the crossfire as companies and government grapple over AI safety"
+    },
+    {
+      "doi": "10.1126/science.zonijed",
+      "url": "https://www.science.org/content/article/ai-models-have-troubling-knack-discovering-legal-loopholes",
+      "date": "2026-06-15T05:25:00Z",
+      "title": "AI models have a troubling knack for discovering legal loopholes"
+    },
+    {
+      "doi": "10.1126/science.zatloch",
+      "url": "https://www.science.org/content/article/ai-executives-join-call-stricter-regulation-synthetic-biology",
+      "date": "2026-06-04T05:30:00Z",
+      "title": "AI executives join call for stricter regulation of synthetic biology"
+    },
+    {
+      "doi": "10.1126/science.zdk7655",
+      "url": "https://www.science.org/content/article/amid-flood-ai-advances-astrophysicists-are-questioning-soul-their-field",
+      "date": "2026-06-04T02:00:00Z",
+      "title": "Amid a flood of AI advances, astrophysicists are questioning the soul of their field"
+    },
+    {
+      "doi": "10.1126/science.zelybjo",
+      "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
+      "date": "2026-06-02T04:55:00Z",
+      "title": "Mathematicians issue warning as AI rapidly gains ground"
+    }
+  ]
+}
