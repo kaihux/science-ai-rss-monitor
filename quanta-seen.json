@@ -1,0 +1,31 @@
+{
+  "source": "quanta-feed.xml",
+  "initialized_at": "2026-10-30",
+  "seen": [
+    {
+      "guid": "https://www.quantamagazine.org/?p=167980",
+      "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
+      "published": "Mon, 19 Oct 2026 15:40:26 +0000"
+    },
+    {
+      "guid": "https://www.quantamagazine.org/?p=167932",
+      "url": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
+      "published": "Fri, 16 Oct 2026 13:25:08 +0000"
+    },
+    {
+      "guid": "https://www.quantamagazine.org/?p=167776",
+      "url": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
+      "published": "Mon, 12 Oct 2026 14:20:30 +0000"
+    },
+    {
+      "guid": "https://www.quantamagazine.org/?p=167663",
+      "url": "https://www.quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007/",
+      "published": "Wed, 07 Oct 2026 15:08:46 +0000"
+    },
+    {
+      "guid": "https://www.quantamagazine.org/?p=167602",
+      "url": "https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/",
+      "published": "Mon, 05 Oct 2026 13:40:07 +0000"
+    }
+  ]
+}
